@@ -8,9 +8,9 @@ SWG2NWG_C_TE
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.C.WIRE_TE   |    90       |
+|     opt_1         |   TECH.WG.Strip.C.WIRE_TE   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 | TECH.WG.SiN_strip.C.WIRE_TE |    270      |
+|     opt_2         | TECH.WG.SiN_strip.C.WIRE_TE |    270      |
 +-------------------+-----------------------------+-------------+
 
 SWG2NWG_C_TM
@@ -20,9 +20,9 @@ SWG2NWG_C_TM
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.C.WIRE_TM   |    90       |
+|     opt_1         |   TECH.WG.Strip.C.WIRE_TM   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 | TECH.WG.SiN_strip.C.WIRE_TM |    270      |
+|     opt_2         | TECH.WG.SiN_strip.C.WIRE_TM |    270      |
 +-------------------+-----------------------------+-------------+
 
 SWG2NWG_O_TE
@@ -32,9 +32,9 @@ SWG2NWG_O_TE
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.O.WIRE_TE   |    90       |
+|     opt_1         |   TECH.WG.Strip.O.WIRE_TE   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 | TECH.WG.SiN_strip.O.WIRE_TE |    270      |
+|     opt_2         | TECH.WG.SiN_strip.O.WIRE_TE |    270      |
 +-------------------+-----------------------------+-------------+
 
 SWG2NWG_O_TM
@@ -44,9 +44,9 @@ SWG2NWG_O_TM
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.O.WIRE_TM   |    90       |
+|     opt_1         |   TECH.WG.Strip.O.WIRE_TM   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 | TECH.WG.SiN_strip.O.WIRE_TM |    270      |
+|     opt_2         | TECH.WG.SiN_strip.O.WIRE_TM |    270      |
 +-------------------+-----------------------------+-------------+
 
 SWG2RWG_C_TE
@@ -56,9 +56,9 @@ SWG2RWG_C_TE
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.C.WIRE_TE   |    90       |
+|     opt_1         |   TECH.WG.Strip.C.WIRE_TE   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 |   TECH.WG.Ridge.C.WIRE_TE   |    270      |
+|     opt_2         |   TECH.WG.Ridge.C.WIRE_TE   |    270      |
 +-------------------+-----------------------------+-------------+
 
 SWG2RWG_C_TM
@@ -68,9 +68,9 @@ SWG2RWG_C_TM
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.C.WIRE_TM   |    90       |
+|     opt_1         |   TECH.WG.Strip.C.WIRE_TM   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 |   TECH.WG.Ridge.C.WIRE_TM   |    270      |
+|     opt_2         |   TECH.WG.Ridge.C.WIRE_TM   |    270      |
 +-------------------+-----------------------------+-------------+
 
 SWG2RWG_O_TE
@@ -80,9 +80,9 @@ SWG2RWG_O_TE
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.O.WIRE_TE   |    90       |
+|     opt_1         |   TECH.WG.Strip.O.WIRE_TE   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 |   TECH.WG.Ridge.O.WIRE_TE   |    270      |
+|     opt_2         |   TECH.WG.Ridge.O.WIRE_TE   |    270      |
 +-------------------+-----------------------------+-------------+
 
 SWG2RWG_O_TM
@@ -92,7 +92,7 @@ SWG2RWG_O_TM
 +-------------------+-----------------------------+-------------+
 |     ports         |     waveguide type          | orientation |
 +===================+=============================+=============+
-|  wg_straight_in0  |   TECH.WG.Strip.O.WIRE_TM   |    90       |
+|     opt_1         |   TECH.WG.Strip.O.WIRE_TM   |    90       |
 +-------------------+-----------------------------+-------------+
-|  wg_straight_out0 |   TECH.WG.Ridge.O.WIRE_TM   |    270      |
+|     opt_2         |   TECH.WG.Ridge.O.WIRE_TM   |    270      |
 +-------------------+-----------------------------+-------------+

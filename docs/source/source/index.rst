@@ -1,4 +1,4 @@
-Tower Semiconductor PH18MK Documentation
+Tower Semiconductor PH18MK documentation
 ============================================
 
 .. toctree::

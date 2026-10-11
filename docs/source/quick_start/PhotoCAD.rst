@@ -31,7 +31,7 @@ Configure the workspace in the pop-up window.
 
 * ``Python Version``
 
-    * Select the Python version. We recommend that users select Python 3.8.
+    * Select the Python version. We recommend that users select Python 3.10.
 
 .. image:: ../images/PhotoCAD_2.png
 

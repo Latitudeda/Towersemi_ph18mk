@@ -19,4 +19,4 @@ System Requirement
 |                |                     | Linux with Gnome/KDE|
 +----------------+---------------------+---------------------+
 
-**PhotoCAD** is written in Python3 and needs to run on a 64-bit operating system. It is recommended to use Python 3.8 or higher as the interpreter.
+**PhotoCAD** is written in Python3 and needs to run on a 64-bit operating system. It is recommended to use Python 3.10 or higher as the interpreter.
